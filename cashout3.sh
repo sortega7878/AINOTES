@@ -1,5 +1,5 @@
 #! /bin/bash
-DEBUG_API=http://172.33.0.3:1635
+DEBUG_API=http://bee.avadopackage.com:1635
 MIN_AMOUNT=10
 
 function getPeers() {
