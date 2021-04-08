@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 DEBUG_API=http://bee.avadopackage.com:1635
 MIN_AMOUNT=10
 
